@@ -1,6 +1,3 @@
--- Created by Vertabelo (http://vertabelo.com)
--- Last modification date: 2023-05-24 11:45:24.858
-
 -- tables
 -- Table: BigMacIndex
 CREATE TABLE BigMacIndex (
